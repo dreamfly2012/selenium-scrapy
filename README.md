@@ -1,2 +1,4 @@
-# selenium-scrapy
-scrapy used by selenium
+# python +　selenium + chromedriver 自动化网页操作
+
+
+
